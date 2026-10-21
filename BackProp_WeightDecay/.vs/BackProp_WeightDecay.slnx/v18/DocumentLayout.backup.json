@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\BackProp_WeightDecay\\",
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Documents\\GitHub\\BackPropProgram-for-CS345-IS_WeightDecay\\BackProp_WeightDecay\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F820E65-1561-4C07-B55A-3BDE2D359D62}|BackProp_WeightDecay\\BackProp_WeightDecay.csproj|c:\\users\\acer\\source\\repos\\backprop_weightdecay\\backprop_weightdecay\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7F820E65-1561-4C07-B55A-3BDE2D359D62}|BackProp_WeightDecay\\BackProp_WeightDecay.csproj|c:\\users\\acer\\documents\\github\\backpropprogram-for-cs345-is_weightdecay\\backprop_weightdecay\\backprop_weightdecay\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7F820E65-1561-4C07-B55A-3BDE2D359D62}|BackProp_WeightDecay\\BackProp_WeightDecay.csproj|solutionrelative:backprop_weightdecay\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\BackProp_WeightDecay\\BackProp_WeightDecay\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\GitHub\\BackPropProgram-for-CS345-IS_WeightDecay\\BackProp_WeightDecay\\BackProp_WeightDecay\\Form1.cs",
               "RelativeDocumentMoniker": "BackProp_WeightDecay\\Form1.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\BackProp_WeightDecay\\BackProp_WeightDecay\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\GitHub\\BackPropProgram-for-CS345-IS_WeightDecay\\BackProp_WeightDecay\\BackProp_WeightDecay\\Form1.cs [Design]",
               "RelativeToolTip": "BackProp_WeightDecay\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-21T02:04:01.243Z",
